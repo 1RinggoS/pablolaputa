@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(40, 46, 53);
+}
+
+.header{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Impact;
+    font-size: 75px;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+body{
+    background: linear-gradient(right green, yellow, red);
+}
+
+.kotak{
+    color: aliceblue;
+    font-size: 30px;
+    width: 500px;
+    height: 50px;
+    font-family: Tahoma;
+    text-align: center;
+    padding-top: 10px;
+    border: solid 5px;
+    display: block;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 35px 35px 35px 35px;
+    
+}
+
+
+.kotak:hover{
+    background-color: black;
+}
+
+.footer{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 200px;
+    background-color: dimgray;
+    text-decoration: none;
+}
+
+
+.footer img{
+    width: 30px;
+    display: block;
+}
+
+img{
+    border-radius: 50%;
+    max-width: 50%;
+}
+
